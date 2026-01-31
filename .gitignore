@@ -1,0 +1,8 @@
+runs/
+models/
+Results/
+venv/
+best.pt
+graphs.ipynb
+Fire*
+READ*
